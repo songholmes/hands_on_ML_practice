@@ -17,7 +17,6 @@ person.desc
 person_pb2.py
 datasets/flowers
 datasets/lifesat/lifesat.csv
-datasets/spam
 datasets/words
 datasets/jsb_chorales
 
